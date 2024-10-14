@@ -16,7 +16,7 @@ type Occupation struct {
 
 func main() {
 	// Assigning a struct to a variable
-	person := Person{Name: "Matheus", Age: 21, Email: "matheus@gmail.com"}
+	person := Person{Name: "Matheus", Age: 21, Email: "testedeployer@gmail.com"}
 
 	fmt.Println("Hi, I am", person.Name)
 	fmt.Println("I am,", person.Age, "years old")
